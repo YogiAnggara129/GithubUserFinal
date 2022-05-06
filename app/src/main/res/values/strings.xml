@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Github User Final</string>
+    <string name="search_title">Github User\'s Search</string>
+    <string name="detail_title">Detail User</string>
+    <string name="setting_title">Setting</string>
+    <string name="username">username</string>
+    <string name="name">name</string>
+    <string name="location">location</string>
+    <string name="company">Working at %1$s</string>
+    <string name="repository">Repository : %1$s</string>
+    <string name="follower">Follower</string>
+    <string name="following">Following</string>
+    <string name="search">Github Username</string>
+    <string name="setting">setting</string>
+    <string name="share">bagikan</string>
+    <string name="language">Language</string>
+    <string name="en" translatable="false">English</string>
+    <string name="id" translatable="false">Indonesia</string>
+    <string name="todo" translatable="false">TODO</string>
+    <string name="follower_numb" translatable="false">follower numb</string>
+    <string name="following_numb" translatable="false">following numb</string>
+    <string name="favorite">Favorites</string>
+    <string name="add_to_fav_succes_info">User has been successfully added to favorites</string>
+    <string name="add_to_fav_failed_info">Failed to add user to favorites</string>
+    <string name="remove_from_fav_succes_info">User removed from favorites</string>
+    <string name="remove_from_fav_failed_info">Failed to remove user from favorites</string>
+    <string name="nul_data_fav_info">No data at this time</string>
+    <string name="on_alarm_info">The alarm is turned on</string>
+    <string name="off_alarm_info">The alarm is off</string>
+    <string name="daily_message">Wow .. Albert Newton uploaded the results of his AI project! Come on, don\'t miss the info !! Click here</string>
+    <string name="reminder_setting">Reminder Setting</string>
+    <string name="daily_reminder">Make reminder at 09.00 AM</string>
+</resources>

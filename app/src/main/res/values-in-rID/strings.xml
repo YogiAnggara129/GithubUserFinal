@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Github User API</string>
+    <string name="search_title">Cari Pengguna Github</string>
+    <string name="detail_title">Detail Pengguna</string>
+    <string name="setting_title">Pengaturan</string>
+    <string name="username">nama pengguna</string>
+    <string name="name">nama</string>
+    <string name="location">lokasi</string>
+    <string name="company">Bekerja di %1$s</string>
+    <string name="repository">Repositori : %1$s</string>
+    <string name="follower">Pengikut</string>
+    <string name="following">Mengikuti</string>
+    <string name="search">Nama Pengguna Github</string>
+    <string name="setting">pengaturan</string>
+    <string name="share">share</string>
+    <string name="language">Bahasa</string>
+    <string name="favorite">Favorit</string>
+    <string name="add_to_fav_succes_info">User berhasil ditambahkan ke favorit</string>
+    <string name="add_to_fav_failed_info">Gagal menambahkan user ke favorit</string>
+    <string name="remove_from_fav_succes_info">User dihapus dari favorit</string>
+    <string name="remove_from_fav_failed_info">Gagal menghapus user dari favorit</string>
+    <string name="nul_data_fav_info">Tidak ada data saat ini</string>
+    <string name="on_alarm_info">Alarm dihidupkan</string>
+    <string name="off_alarm_info">Alarm dimatikan</string>
+    <string name="daily_message">Wah.. Albert Newton upload hasil proyek AI nya! Yuk jangan ketinggalan infonya!! Klik di sini</string>
+    <string name="reminder_setting" >Pengaturan Alarm</string>
+    <string name="daily_reminder" >Buat alarm pada pukul 09.00</string>
+</resources>
